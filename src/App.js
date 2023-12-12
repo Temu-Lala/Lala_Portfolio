@@ -9,6 +9,7 @@ import Test from './components/Test';
 import Hero_3D from './components/Hero_3D';
 import Background from './img/background.png';
 import Cv from './components/Cv';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -27,7 +28,9 @@ function App() {
 
         <div className="fixed inset-0 -z-10 bg-image bg-no-repeat bg-center bg-cover ">
           <Hero_3D class="bg-transparent" />
+
         </div>
+<Footer/>
       </div>
     </Router>
   );
