@@ -1,0 +1,8 @@
+.mycards:hover
+{
+box-shadow: 10,10,10px,10px red;
+cursor: pointer;
+background-color: rgb(0, 0, 0);
+color: #ddd;
+
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Titan Computer Man
+* source:	https://sketchfab.com/3d-models/titan-computer-man-234499cb7db54eaaa218c9f0b036f159
+* author:	j (https://sketchfab.com/gmanfromhl2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Titan Computer Man" (https://sketchfab.com/3d-models/titan-computer-man-234499cb7db54eaaa218c9f0b036f159) by j (https://sketchfab.com/gmanfromhl2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

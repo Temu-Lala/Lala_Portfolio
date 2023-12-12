@@ -1,0 +1,27 @@
+.work{
+    scroll-snap-align: center;
+
+}
+.lists
+{
+    -webkit-text-stroke:1px rgb(0, 0, 0) ;
+    
+  
+   
+}
+
+.hints
+{
+    width: 120px;
+    height: 120px;
+    border: 2px solid lightblue;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+content
+{
+    font-size: medium;
+    color: burlywood;
+}

@@ -1,0 +1,10 @@
+.scrollbar::-webkit-scrollbar
+{
+  display: none;
+
+}
+
+.bg-image
+{
+background-image: url('./img/wallpaper.jpg');
+}

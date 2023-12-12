@@ -1,0 +1,32 @@
+.name {
+    animation: translate-x 0.5s linear;
+  }
+  
+  @keyframes translate-x {
+    0% {
+      transform: translateX(-1000px); 
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
+  .photo {
+    animation: translate-y 0.5s linear;
+  }
+  
+  @keyframes translate-y {
+    0% {
+      transform: translateY(-1000px); 
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
+
+  .scroll_anim 
+  {
+ animation: scroll 3s liner infinite;
+ animation-play-state: paused;
+  }

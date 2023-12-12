@@ -1,0 +1,13 @@
+.contact{
+    scroll-snap-align: center;
+   
+}
+input::placeholder
+{
+    color: rgb(255, 255, 255);
+}
+
+textarea::placeholder
+{
+    color: rgb(255, 255, 255);
+} 
